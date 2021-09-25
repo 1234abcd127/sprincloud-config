@@ -1,0 +1,6 @@
+server:
+  port: 1001
+config:
+  info: "master/hello config-port-test.yml 【version】: 1"
+say:
+ hello: "你好，我是config-port-test.yml;s=1"   

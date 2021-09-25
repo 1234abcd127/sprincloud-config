@@ -1,1 +1,4 @@
-
+config:
+  info: "master/hello config-test.yml 【version】: 1"
+say:
+ hello: "你好，我是config-test.yml;s=1"  
