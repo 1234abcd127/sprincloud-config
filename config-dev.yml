@@ -1,4 +1,4 @@
 config:
-  info: "master/hello config-dev.yml 【version】: 1"
+  info: "master/hello config-dev.yml 【version】: 2"
 say:
  hello: "你好，我是config-dev.yml;s=1"   
