@@ -1,5 +1,5 @@
 server:
-  port: 1001
+  port: 1003
 config:
   info: "master/hello config-port-test.yml 【version】: 1"
 say:
